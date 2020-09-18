@@ -2,3 +2,6 @@ flask
 sqlalchemy
 Flask-SQLAlchemy
 pytest
+dulwich --global-option=--pure
+python-git-secrets
+safety
