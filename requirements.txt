@@ -6,3 +6,4 @@ dulwich
 python-git-secrets
 safety
 bandit
+python-taint
