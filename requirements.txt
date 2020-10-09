@@ -7,3 +7,4 @@ python-git-secrets
 safety
 bandit
 python-taint
+pylint
