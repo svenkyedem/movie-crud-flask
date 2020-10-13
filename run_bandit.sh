@@ -1,5 +1,5 @@
 #!/bin/sh
-
+set +e
 SRC_DIRECTORY="$(pwd)"
 REPORT_DIRECTORY="$SRC_DIRECTORY/report"
 
